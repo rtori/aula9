@@ -1,9 +1,10 @@
 # Aula 9 - Git
 ## Design de Software - Insper
 
-ServiÃ§os de Git on-line (em nuvem):
+Serviços de Git on-line (em nuvem):
 
-* [Github] (www.github.com)
-* [Bitbucket] (https://bitbucket.org/)
-* [IBM Bluemix] (https://hub.jazz.net/docs/git/)
+* [Github](www.github.com)
+* [Bitbucket](https://bitbucket.org/)
+* [IBM Bluemix](https://hub.jazz.net/docs/git/)
+* [Gitlab](https://about.gitlab.com/)
 * ...
